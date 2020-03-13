@@ -1,11 +1,5 @@
+### :sparkling_heart:[全网最低价购买云服务器](https://mp.weixin.qq.com/s/lLKIzX9DAFnYcNF-dpWQyw)  有服务器购买需求的可以点击链接看看。
 
-
-[**我帮阿里云推广服务器 买来送自己，现在最低89/年（很便宜了！），送女朋友马上过年再合适不过了，买了搭建个项目给面试官看也香，还可以熟悉技术栈，(老用户用家人账号买就好了，我用我女朋友的 ）。扫码或者点击购买**](https://www.aliyun.com/minisite/goods?userCode=pfn5xpli&share_source=copy_link)
-
-![img](https://pic1.zhimg.com/80/v2-89648b1863fd1160a780b7bf3d01d345_hd.jpg)
-
-
-我写了一篇教程：[**搭建教程，从0开始一步一步带你搭建**](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s/MQqasjPs4Y-OCjQLuFj4ew)
 
 ***
 
@@ -23,30 +17,30 @@
 
 
 
-![关注](https://user-gold-cdn.xitu.io/2019/9/24/16d633ad7e62c2fe?w=833&h=325&f=png&s=127042)
+<img src='https://tva1.sinaimg.cn/large/006tNbRwly1gb0nzpn8z7g30go0gokbp.gif' width=400px height=400px />
+
 
 
 <p align="center">
-  <a href="#目录"><img src="https://img.shields.io/badge/目录(善用搜索)-read-brightgreen.svg" alt="阅读"></a>
   <a href="#微信群"><img src="https://img.shields.io/badge/chat-加入微信群-lightgrey.svg" alt="微信群"></a>
   <a href="#公众号"><img src="https://img.shields.io/badge/关注公众号-Java3y-blue.svg" alt="公众号"></a>
   <a href="https://juejin.im/user/5a7005b46fb9a01c995117a7"><img src="https://img.shields.io/badge/关注-掘金-lightgrey.svg" alt="掘金"></a>
   <a href="https://www.zhihu.com/people/Java_3y/activities"><img src="https://img.shields.io/badge/关注-知乎-critical.svg" alt="知乎"></a>
-  <a href="https://i-beta.cnblogs.com/"><img src="https://img.shields.io/badge/关注-博客园-brightgreen.svg" alt="博客园"></a>
-  <a href="#推荐阅读"><img src="https://img.shields.io/badge/推荐阅读-大佬文章-brightgreen.svg" alt="推荐阅读"></a>
-  <a href="#更多资料"><img src="https://img.shields.io/badge/获取-更多资料-critical.svg" alt="更多资料"></a>
+  <a href="https://github.com/ZhongFuCheng3y/JavaSystem"><img src="https://img.shields.io/badge/推荐阅读-大佬文章-brightgreen.svg" alt="推荐阅读"></a>
+    <a href="https://mp.weixin.qq.com/s/lLKIzX9DAFnYcNF-dpWQyw"><img src="https://img.shields.io/badge/购买-云服务-brightgreen.svg" alt="云服务"></a>
 </p>
 
 
-**<a name="目录">:notebook:目录(善用ctrl+F)</a>**
 
 ###  :coffee:Java基础  ###
 
-- [2018年如何快速学Java](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484369&idx=1&sn=81beba398864b0b56cc1970e715e03b2&chksm=ebd742d0dca0cbc682abf4319dccc28ef171675b3bd89a20664c14511efcf8c5b5c5c27db432&scene=21###wechat_redirect)
+- [初学者学Java常遇到的问题，我都给你回答了！](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486584&idx=1&sn=e5caa05ccb45722474bc84799c7949e3&chksm=ebd74d79dca0c46f34326dbdb39c0ef89c31305cf355aad28b6ba4e85d54b5f2453ee822cef6&token=2140209384&lang=zh_CN#rd)
+- [Java学习路线](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484369&idx=1&sn=81beba398864b0b56cc1970e715e03b2&chksm=ebd742d0dca0cbc682abf4319dccc28ef171675b3bd89a20664c14511efcf8c5b5c5c27db432&scene=21###wechat_redirect)
 - [泛型就这么简单](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484109&idx=1&sn=ed48fa9216c260fb9b622d9f383d8c25&chksm=ebd743ccdca0cadad9e8e4a5cd9a7ce96b595ddaf6fb2e817a9a0d49d4d54c50bb93a97e56eb&scene=21###wechat_redirect)
 - [注解就这么简单](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484113&idx=1&sn=f5fd35b2f7dc45a256fee170cad0cdc9&chksm=ebd743d0dca0cac6a8fed8caf09f0d561b0358dece9b8e746e1e6726bca093287cf515638349&scene=21###wechat_redirect)
 - [Object对象你真理解了吗？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484210&idx=1&sn=9d40e2e4c72f0727c7b7925cbe314fc0&chksm=ebd74233dca0cb2560677c7dc7746bf166195d793860c41ab477431af2cf0a6004477e27b814&scene=21###wechat_redirect)
 - [JDK10都发布了，nio你了解多少？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484235&idx=1&sn=4c3b6d13335245d4de1864672ea96256&chksm=ebd7424adca0cb5cb26eb51bca6542ab816388cf245d071b74891dd3f598ccd825f8611ca20c&scene=21###wechat_redirect)
+- [Java 程序员都需要懂的 反射！](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486658&idx=1&sn=58e682f3b9c68def4f12c574afac0de3&chksm=ebd74dc3dca0c4d542aa7ef2f7944dba438a447ffc2b39650dc4362698c6a7acd32e1a5fe3dc&token=2140209384&lang=zh_CN#rd)
 - [COW奶牛！Copy On Write机制了解一下](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484364&idx=1&sn=60b00b2188047267e5c46c09ae248ca8&chksm=ebd742cddca0cbdbcf40710dec04757208ee8e64473966b28a01cc87352515e45f9ec237c0a3&scene=21###wechat_redirect)
 - [给女朋友讲解什么是Optional【JDK 8特性】](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484410&idx=1&sn=ce6d4cf18846cc7b9e6e92427c9bba26&chksm=ebd742fbdca0cbedac796e06ebea4bad92ff7d707a5457c5ce521aa25b522dce96a23c4dcfbc&token=620000779&lang=zh_CN&scene=21###wechat_redirect)
 - [还在用Synchronized？Atomic你了解不？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484416&idx=1&sn=540c0714263f8ee8b80ba90535162657&chksm=ebd74501dca0cc179e66c34cf3fa647f18860c670b47b0612fac0cb2c26b6cb17ad6824f0808&token=620000779&lang=zh_CN&scene=21###wechat_redirect)
@@ -70,6 +64,7 @@
 - [人在家中坐，班从天上来「小程序推送」](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486222&idx=1&sn=811823aa7729b6fee9c353c02551358f&chksm=ebd74a0fdca0c3198a01ad5f082b7565bdb85eca098db25d5a92c7afef61b042293d5472fed2&token=711412693&lang=zh_CN#rd)
 - [Java发送邮件时，必须要的一个配置！](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485610&idx=1&sn=bc06763775a7378ed148a81069bc061a&chksm=ebd749abdca0c0bdb69fcab798a104b3fd2376f77ef84d405aaea579f2720b2d939c4ab3804f&token=1948873548&lang=zh_CN#rd)
 - [fastjson学习笔记](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486253&idx=1&sn=991a98a0c8de9d87b1f281ea306562f5&chksm=ebd74a2cdca0c33abe21d30dfe4ef84f1ce3f75f8ebe1245bb29829b6fd7693a67f8435af058&token=711412693&lang=zh_CN#rd)
+- [本地文件自动同步到GitHub](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486515&idx=1&sn=584fa08c4569c3fb5cad0ad9861af0a7&chksm=ebd74d32dca0c42414cfc32cf4cfc06880c59602b1cdcb578ab31bab884748b618cbbb532247&token=1963867963&lang=zh_CN#rd)
   
 
 ###  :book:Java容器  ###
@@ -112,6 +107,7 @@
 - [策略模式原来就这么简单！](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484542&idx=1&sn=ce50190c5e4a85c45084890e1e0e4182&chksm=ebd7457fdca0cc69c48b053f62d9645a23188939fa328d1a097b5a34b2a8964db7f5a1b0b703&token=1712662964&lang=zh_CN###rd)
 - [三分钟学会门面模式！](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484556&idx=1&sn=920d00416ef76669b59937c771526345&chksm=ebd7458ddca0cc9bdda893fa034da354d97cfd0e96bdaa6ccfc2a94a0ba85a564415efa3c6ba&token=1712662964&lang=zh_CN###rd)
 - [一分钟学会《模板方法模式》](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484572&idx=1&sn=29b09d74a30afe8df29bfb19990f3fb2&chksm=ebd7459ddca0cc8b410bb1bd91a967aed86b68257ab1b4983ec4999c33bb8edee7d5eb7d1540&token=1712662964&lang=zh_CN###rd)
+- [这就是『责任链模式』？](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486593&idx=1&sn=c6f1ed857d1f60fec8575f19b3e46e6c&chksm=ebd74d80dca0c49616226259e7678a6544a3cbdc5dc5b27f94490640162c953a76886bd09d98&token=2140209384&lang=zh_CN#rd)
 
 
 
@@ -332,6 +328,9 @@
 - [【Java】几道常见的秋招面试题](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484721&idx=3&sn=c18ab053895900ae05b3973844999da5&chksm=ebd74430dca0cd26844abe4f86ddd031059c77e924bed409326e3474725495349f08ca75da7d&token=1676899695&lang=zh_CN###rd)
 - [金三银四，二月就要准备！](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484755&idx=1&sn=980fc039a325939d7830a2d16726c589&chksm=ebd74452dca0cd441ad1ce2e650c2a7daf6dff2296ff8e4756cb1557a7f724f55a5321163e9b###rd)
 
+### :jack_o_lantern:大数据
+
+- [「只需7分钟！我将抢走你的赞」大数据入门](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486604&idx=1&sn=fba7a7f34c8faf182b88b137ff85b3ed&chksm=ebd74d8ddca0c49b87fc50027d94b272b7df7ac11e966a6a85b7c1f9bafec846f25a3c6461ef&token=2140209384&lang=zh_CN#rd)
 
 ### :lollipop:Docker
 
@@ -349,6 +348,7 @@
 
 ### :radio:搜索引擎
 
+- [「扫盲」 Elasticsearch](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486522&idx=1&sn=7b6080756d0711c646fb47d5db49fc97&chksm=ebd74d3bdca0c42d35f7eef97e4f925a20cc82b07ca7aeba21f83ba56135ab2dd1ad73238b72&token=1963867963&lang=zh_CN#rd)
 - [Lucene入门](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484022&idx=2&sn=ca972fb77eb8f3a69d20071afeb359b3&chksm=ebd74377dca0ca612ea6966a55bb66444383226f08cbdcaa2805507aba706089a9ab689a1de7&scene=21###wechat_redirect)
 - [Elasticsearch就是这么简单](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484058&idx=2&sn=5c2b32adaab2ffe4b331c5abb95a5f43&chksm=ebd7439bdca0ca8d7967fcaa037fcd7880cfbd6b36478f51617ad9de79040076e2f72dbad8ba&scene=21###wechat_redirect)
 
@@ -416,8 +416,6 @@
 - [DOM编程](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485225&idx=2&sn=456a67450369568742325c3831cc938d&chksm=ebd74628dca0cf3ec0118ffdcf208b3842fb9b445bc05071bc2b786ce0eb08d32b889d29baae&token=1230572157&lang=zh_CN###rd)
 - [Jquery就是这么简单](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247485212&idx=2&sn=fe3183b3f5373c954ff53cd6be84e7c3&chksm=ebd7461ddca0cf0b91080667eef599a355c219b2de422bfc7465ee0950caa91b250e11586855&token=1230572157&lang=zh_CN###rd)
 - [WebSocket就是这么简单](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483830&idx=1&sn=d6fb2e37e11eeb6461845508f428777f&chksm=ebd740b7dca0c9a13d20eb095a074714b7dbe93ad14a314c01f49071c39c65703154f7ac8af8&scene=21###wechat_redirect)
-- [常用的CSS框架](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483842&idx=3&sn=45cd68dc769cdcf098d1baf41811fdaa&chksm=ebd740c3dca0c9d5fe014cef49236189af699a6b6e7ecf1d21895625c6672d30948421da99a0&scene=21###wechat_redirect)
-- [JsChart组件使用](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483842&idx=2&sn=cb4552227c5de2091250eb2b9373b92f&chksm=ebd740c3dca0c9d543ba0b418f35132ac56b3d2322603754cecb9a32febe18b0e47c186472ca&scene=21###wechat_redirect)
 - [浅谈CDN、SEO、XSS、CSRF](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247483842&idx=1&sn=40fd0b86f0fda4db4f55584fa4f82cb9&chksm=ebd740c3dca0c9d503a494638a959ef2c5cffb7fedd57954f510fdd13e00a1980eebaa69b7ae&scene=21###wechat_redirect)
 
 
@@ -482,13 +480,6 @@
 - [这一年](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247486418&idx=1&sn=14362cd3c31c1df6540bb135cfd9e82f&chksm=ebd74ad3dca0c3c55bf912b5bda4b536013f7aba88b52a7cf17d3d50dc2133916d6312c262b2&token=1436027357&lang=zh_CN#rd)
   
 
-###  :lollipop:<a name="推荐阅读">推荐阅读</a>  ###
-
-只要是公众号出现过的技术文章，我都是精心挑选过的。这些文章是值得被我记录下来用作以后索引的（是我的构造知识体系的一部分）
-
-
-> 整理于此链接：[干货文章](src/wechatAriticle.md)
-
 
 
 #### :sparkling_heart:<a name="微信群">加入微信群</a> ###
@@ -496,30 +487,23 @@
 
 添加我的微信备注“**加群**”，即可加入技术交流群,里面的都是人才,各个说话都好听,回到这里就像回到家一样。技术交流为主，拒绝营销广告，开发学习工作中遇到问题可以在微信群交流。欢迎有需要的朋友加群。
 
-<img src='https://img-blog.csdnimg.cn/20191113141315386.png' width=300px height=300px />
+<img src='https://user-gold-cdn.xitu.io/2020/2/27/17085312556871be?w=752&h=974&f=png&s=223055' width=400px height=500px />
 
 
 #### :sparkling_heart:<a name="公众号">加入公众号</a> ###
 
-如果大家想要**实时**关注我更新的文章以及分享的干货的话，可以关注我的公众号
-
-<img src='https://img-blog.csdnimg.cn/2019111314072367.jpg' width=400px height=400px />
-
-#### :sparkling_heart:<a name="更多资料">更多资料</a> ###
+如果大家想要**实时**关注我更新的文章以及分享的干货的话，可以关注我的公众号Java3y。
 
 
-关注公众号：Java3y推送最新的**干货**技术文章
-
-- :art:**获取海量视频资源**， 回复          视频
-- :bell:**获取Java精美脑图**，回复         脑图
-- :clipboard:**获取Java学习路线**，回复    路线
-- :sound:**获取开发常用工具**， 回复        工具
+- :bell:**获取Java精美脑图**
+- :clipboard:**获取Java学习路线**
+- :sound:**获取开发常用工具**
 
 
-**均无套路！！！** 回复就可以获取网盘
+在公众号下回复「**888**」即可获取！！
 
-<img src='https://img-blog.csdnimg.cn/2019111314072367.jpg' width=400px height=400px />
+<img src='https://tva1.sinaimg.cn/large/006tNbRwly1gb0nzpn8z7g30go0gokbp.gif' width=400px height=400px />
 
-
-
+***
+### :sparkling_heart:[全网最低价购买云服务器](https://mp.weixin.qq.com/s/lLKIzX9DAFnYcNF-dpWQyw)  有服务器购买需求的可以点击链接看看。
 
